@@ -42,7 +42,7 @@ TrustNet Safety App is designed to provide quick, reliable and easy access to em
 ## 🚀 How to Run
 1. Clone the repo
    ```bash
-   git clone https://github.com/YOUR-USERNAME/TrustNet-Safety-App.git
+   git clone https://github.com/gp6825/TrustNet-Safety-App.git
    ```
 2. Open the project in **Android Studio**
 3. Add your Google Maps API key in `local.properties`:
