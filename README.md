@@ -2,8 +2,6 @@
 
 An Android application that provides instant help during emergencies. Users can send SOS alerts with live location to trusted contacts, even when offline via SMS.
 
-**Developed by:** Khushboo Khatun & Sufiya Shabnam
-**Department of Computer Engineering, Aligarh Muslim University (AMU)**
 
 ---
 
@@ -66,10 +64,6 @@ TrustNet Safety App is designed to provide quick, reliable and easy access to em
 - Sequential calling to multiple contacts
 - Shake detection using device sensors
 - Faster response in emergencies, more safety and confidence
-
-## 👩‍💻 Authors
-- **Khushboo Khatun**
-- **Sufiya Shabnam**
 
 ## 📄 License
 This project is for educational purposes.
